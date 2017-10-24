@@ -1,0 +1,7 @@
+C:\Users\alois\source\repos\Uebung03\Uebung03\obj\Debug\Uebung03.csprojResolveAssemblyReference.cache
+C:\Users\alois\source\repos\Uebung03\Uebung03\obj\Debug\Uebung03.csproj.CoreCompileInputs.cache
+C:\Users\alois\source\repos\Uebung03\Uebung03\bin\Debug\Uebung03.exe.config
+C:\Users\alois\source\repos\Uebung03\Uebung03\bin\Debug\Uebung03.exe
+C:\Users\alois\source\repos\Uebung03\Uebung03\bin\Debug\Uebung03.pdb
+C:\Users\alois\source\repos\Uebung03\Uebung03\obj\Debug\Uebung03.exe
+C:\Users\alois\source\repos\Uebung03\Uebung03\obj\Debug\Uebung03.pdb
